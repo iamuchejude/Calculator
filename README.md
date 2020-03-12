@@ -5,7 +5,7 @@ A calculator app that performs mathematical operations on number. The app handle
 
 # Languages and Frameworks 
     JavaScript
-    HTML
+    HTML5
     CSS
 
 # Installation and Setup Instructions
